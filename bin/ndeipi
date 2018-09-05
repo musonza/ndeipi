@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'ndeipi'
+puts Ndeip.hi(ARGV[0])
